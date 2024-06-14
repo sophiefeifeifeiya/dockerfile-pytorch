@@ -1,4 +1,4 @@
-FROM direct.virtaicloud.com:32402/njnonpry6rws/1-20240305152853:20240305152853
+FROM direct.virtaicloud.com:32402/njnonpry6rws/1-20240305145653:20240305145653
 
 ENV LC_ALL=zh_CN.UTF-8
 
